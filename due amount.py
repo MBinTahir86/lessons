@@ -16,4 +16,9 @@ def calculate_due_amount():
         print("The bill is fully paid. No amount due.")
 
 
-calculate_due_amount()
+calculate_due_amount()  
+
+
+
+
+
