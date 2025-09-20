@@ -1,0 +1,13 @@
+tuple1=(10,23.5,"tahir",True)
+print (tuple1)
+tuple2=(10,20,30,45,43)
+print (tuple2)
+add=(tuple2+(9,))
+print(add)
+tuple3 = (1,5,1,7,2,5,0,8,6,7,6,7,)
+print (tuple3)
+print (tuple3.count(5))
+tuple4=("b","a","l","l")
+slice=tuple4[1:3]
+print(tuple4)
+print (slice)
